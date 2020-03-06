@@ -25,9 +25,9 @@ Give examples
 
 List of parameters required from user and its one line description
 
-x - username of user
-y - password for the provided username
-z - ssl required choice 
+* x - username of user
+* y - password for the provided username
+* z - ssl required choice 
 
 ```
 Give the example
