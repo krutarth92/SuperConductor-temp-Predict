@@ -48,5 +48,5 @@ Mention latest version and change notes
 
 
 ### Authors
-**Cyware Inc**
+*Cyware Inc*
 
