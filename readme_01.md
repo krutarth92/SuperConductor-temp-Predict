@@ -1,10 +1,11 @@
 ## App Name - Sample App Name
 
-
+<br/><br/><br/>
 ## Notes
 
-Short Note description for an app in two lines
+Short Note description for an app in two lines<br/>
 API Version: v1
+
 
 ## References
 
@@ -29,9 +30,6 @@ List of parameters required from user and its one line description
 * y - password for the provided username
 * z - ssl required choice 
 
-```
-Give the example
-```
 
 ## Contribution
 
