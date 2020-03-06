@@ -1,6 +1,5 @@
-# App Name
+## App Name - Sample App Name
 
-Sample App Name
 
 ## Notes
 
