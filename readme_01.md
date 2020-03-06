@@ -1,13 +1,12 @@
 ## App Name - Sample App Name
-
-<br/><br/><br/>
-## Notes
+<br/><br/>
+### Notes
 
 Short Note description for an app in two lines<br/>
 API Version: v1
 
 
-## References
+### References
 
 - https://references_1.com
 - https://references_2.com
@@ -29,6 +28,12 @@ List of parameters required from user and its one line description
 * x - username of user
 * y - password for the provided username
 * z - ssl required choice 
+
+### List of Actions
+
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 
 ## Contribution
