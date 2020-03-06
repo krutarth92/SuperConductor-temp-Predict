@@ -1,4 +1,4 @@
-### App Name - Sample App Name
+# App Name - Sample App Name
 <br/>
 ### Notes
 
