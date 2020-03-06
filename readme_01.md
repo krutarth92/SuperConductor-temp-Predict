@@ -38,16 +38,15 @@ Action Name | Action Identifier
 New Action | new_action
 
 
-## Contribution
+### Contribution
 
 Mention what changes applied and why
 
-## Versioning
+### Versioning
 
 Mention latest version and change notes
 
 
-## Authors
-
-Mention the name who is updating the app
+### Authors
+**Cyware Inc**
 
