@@ -1,10 +1,9 @@
-## App Name - Sample App Name
-<br/><br/>
+### App Name - Sample App Name
+<br/>
 ### Notes
 
 Short Note description for an app in two lines<br/>
 API Version: v1
-
 
 ### References
 
@@ -16,6 +15,8 @@ API Version: v1
 What things you need to install the software and how to install them
 
 ### Authentication Type
+
+Provide Authentication Type and example.
 
 ```
 Give examples
@@ -31,9 +32,9 @@ List of parameters required from user and its one line description
 
 ### List of Actions
 
-Attempt | #Action Name | #Action Identifier
---- | --- | ---
-Seconds | New Action | new_action
+Action Name | Action Identifier
+--- | ---
+New Action | new_action
 
 
 ## Contribution
